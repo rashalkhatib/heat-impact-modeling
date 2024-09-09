@@ -68,12 +68,28 @@ This data set is provided “as is” with no warranty of any kind.
    - Identify 'y' values and prepare data with train_test_split
    - Fit model, make predictions
    - Visualize predictions
-   - Evaluate
+   - Evaluation: 
+      - Mean Absolute Percentage Error (MAPE): 4.81%
+      - Mean Absolute Error (MAE): 6.967
+      - Root Mean Squared Error (RMSE): 9.674
 2. Classification using K-Means: are there common patterns by geography that can be clustered at a county level?
     - Scale data,
     - Find inertia values for optimal number of clusters,
     - Apply clustering
-    - Evaluate performance with Davies-Bouldin Index
+    - Evaluation:
+      - Inertia (Elbow Method): Optimal value is 2 clusters
+      - Davies-Bouldin Index: 0.8941 
+      - Silhouette Score: 0.392
     - Visualize clusters at county level using geopandas  
+     
+### Presentation Link:
+
+
+https://docs.google.com/presentation/d/1hHVa0OKJWUw9KlaXUljytNORQ-143WeGmNhif5-Y4_s/edit?usp=sharing
+
+### Github Link: 
+
+
+https://github.com/rashalkhatib/heat-index.git
      
 
