@@ -91,3 +91,8 @@ https://docs.google.com/presentation/d/1hHVa0OKJWUw9KlaXUljytNORQ-143WeGmNhif5-Y
 
 
 https://github.com/rashalkhatib/heat-index.git
+<<<<<<< HEAD
+=======
+     
+
+>>>>>>> 3a094a9ffd47e2d0d020afc6f007b03def8b40e7
