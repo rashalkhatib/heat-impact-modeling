@@ -1,6 +1,8 @@
 ## Group Project 2: Company Pitch- Modeling Risks and Impacts from Extreme Heat and Humidity (Wet Bulb Safety Thresholds)
 ### Presentation Link:
 https://docs.google.com/presentation/d/1hHVa0OKJWUw9KlaXUljytNORQ-143WeGmNhif5-Y4_s/edit?usp=sharing
+### Project Team:
+Rasha Alkhatib, Kathryn Kavanagh, Jerome Stepp, Geoff Maitland 
 ### Overview:
 This AI-driven solution is designed to help health insurance companies dynamically adjust premiums in response to rising heat and Wet Bulb Globe Temperature (WBGT) trends. By leveraging real-time data, historical climate information, and predictive analytics, the software ensures premiums accurately reflect the growing health risks from heat-related illnesses, optimizing insurance risk management.
 
