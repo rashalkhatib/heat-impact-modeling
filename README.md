@@ -1,5 +1,7 @@
-## Overview:
-
+## Group Project 2: Company Pitch- Modeling Risks and Impacts from Extreme Heat and Humidity (Wet Bulb Safety Thresholds)
+### Presentation Link:
+https://docs.google.com/presentation/d/1hHVa0OKJWUw9KlaXUljytNORQ-143WeGmNhif5-Y4_s/edit?usp=sharing
+### Overview:
 This AI-driven solution is designed to help health insurance companies dynamically adjust premiums in response to rising heat and Wet Bulb Globe Temperature (WBGT) trends. By leveraging real-time data, historical climate information, and predictive analytics, the software ensures premiums accurately reflect the growing health risks from heat-related illnesses, optimizing insurance risk management.
 
 ## Objectives:
@@ -24,7 +26,7 @@ This AI-driven solution is designed to help health insurance companies dynamical
 - Improved Customer Relationships: Transparency and fair pricing strengthen trust and loyalty among policyholders.
 - Proactive Health Alerts: Provides customers with insights on upcoming high-risk periods, enabling them to take preventive health actions.
 
-## Implementation:
+
 
 
 ### Dataset: 
@@ -82,10 +84,7 @@ This data set is provided “as is” with no warranty of any kind.
       - Silhouette Score: 0.392
     - Visualize clusters at county level using geopandas  
      
-### Presentation Link:
 
-
-https://docs.google.com/presentation/d/1hHVa0OKJWUw9KlaXUljytNORQ-143WeGmNhif5-Y4_s/edit?usp=sharing
 
 ### Github Link: 
 
